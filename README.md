@@ -4,10 +4,12 @@
 #### Personal email: aydenwesleyb@gmail.com
 
 ## Upcoming Projects
-#### Command Line - Be able to competently code and navigate on terminals whether it be linux or Windows Powershell.
+#### Learn more about networking and administration of technology.
+#### SQL - Become proficient in SQL and client servers.
 
 ## Completed Projects
 #### GUI Game - A java swing game where squares fall that the user has to control a slider to catch squares falling from the sky!
+#### Command Line - Learned Bash scipting and common linux commands.
 #### Catacomb Crawler -  A java project where a player can move across a dungeon of a double array and fight monsters in hope to get to the end of said dungeon.
 #### Spelling bee - A java project that simulates the New York Times Spelling Bee. A dependency is the words.txt file that I will put here.
 #### [words.txt](https://github.com/user-attachments/files/22011495/words.txt)
